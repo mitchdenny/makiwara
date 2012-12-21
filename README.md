@@ -9,7 +9,7 @@ A Makiwara isn't random snippets of source code. To be classified as a Makiwara 
 1. Your code must revolve around a problem domain. It can be a technical problem domain, or a business problem domain.
 2. Your code must demonstrate one or more patterns applied to the problem domain.
 3. Your code must demonstrate one or more technologies used to implement the patterns applied to the problem domain.
-4. Your code must include a README (or README.md) file which conforms to the Makiwara template (see READMETEMPLATE.md and READMESAMPLE.md). It is essential that the README lists the problem domain, patterns and technologies.
+4. Your code must include a README (or README.md) file which conforms to the Makiwara template (see [READMETEMPLATE.md](https://github.com/MitchDenny/Makiwara/blob/master/READMETEMPLATE.md) and [READMESAMPLE.md](https://github.com/MitchDenny/Makiwara/blob/master/READMESAMPLE.md)). It is essential that the README lists the problem domain, patterns and technologies.
 
 ## Optional Elements of Makiwara
 While the following items aren't strictly necessary for creating a Makiwara, I would recommend them.
@@ -19,7 +19,7 @@ While the following items aren't strictly necessary for creating a Makiwara, I w
 3. Your Makiwara should be forked from another Makiwara as a starting point. If you can't fine one, use this repository as a starting point.
 
 ## Getting Started
-Are you ready to get started creating your own Makiwara? Remember, the fourth essential element of a Makiwara is having a README (or README.md) file based on the READMETEMPLATE.md file in this repository. You can simply download the file, fill it in and drop it into your project, then start coding. Ideally you'll publish the Makiwara somewhere public so that others can use it. That is all pretty manual, which is why I recommend that you use a DVCS and a codesharing site to get started.
+Are you ready to get started creating your own Makiwara? Remember, the fourth essential element of a Makiwara is having a README (or README.md) file based on the [READMETEMPLATE.md](https://github.com/MitchDenny/Makiwara/blob/master/READMETEMPLATE.md) file in this repository. You can simply download the file, fill it in and drop it into your project, then start coding. Ideally you'll publish the Makiwara somewhere public so that others can use it. That is all pretty manual, which is why I recommend that you use a DVCS and a codesharing site to get started.
 
 ### Creating a Makiwara on GitHub
 If you want to get up and running quickly, just use GitHub.
