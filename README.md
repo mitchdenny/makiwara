@@ -34,7 +34,9 @@ If you want to get up and running quickly, just use GitHub.
 8. Push the changes back to GitHub.
 9. Get started coding on your own Makiwara.
 
-One of the great things about the Makiwara concept is that each one can build upon one that you have created previously. Thus allowing you to blend more patterns, concepts and technologies to see how everything works together. If you are doing this you'll find a bit of a problem with GitHub in that you can fork your own repositories. You could create a branch within your own Makiwara but I think I makes them less discoverable and less reusable for others. So I recommend that you use the following technique to work around the issue. First, create a repository with the name that you want (e.g. NewMakiwara), then use the following commands to clone from the original Makiawara into the new one you have created.
+One of the great things about the Makiwara concept is that each one can build upon one that you have created previously. Thus allowing you to blend more patterns, concepts and technologies to see how everything works together. If you are doing this you'll find a bit of a problem with GitHub in that you can fork your own repositories. You could create a branch within your own Makiwara but I think I makes them less discoverable and less reusable for others. So I recommend that you use the following technique to work around the issue.
+
+First, create a repository with the name that you want (e.g. NewMakiwara), then use the following commands to clone from the original Makiawara into the new one you have created.
 
     git clone https://github.com/Username/OriginalMakiwara NewMakiwara
     cd NewMakiwara
