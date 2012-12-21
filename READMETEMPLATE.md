@@ -1,4 +1,4 @@
-# TODO Makiwara
+# INSERT TITLE Makiwara
 This code is a [Code Makiwara](http://github.com/MitchDenny/Makiwara/). It demonstrates a combination of technologies and patterns applied to a specific problem domain. You are free to fork this repository and create your own Makiwara.
 
 ## Problem Domain
